@@ -1,4 +1,7 @@
-body {background-color:beige;
+body {background-image: url(imagem6.jpg)
+    background-repeat: no-repeat;
+    background-size:cover;
+
 text-align: left;
 }
 
