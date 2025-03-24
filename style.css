@@ -15,6 +15,7 @@ border-width: 3px;
 border-style: outset;
 margin-right: 85%;
 text-align: left;
+font-weight: bold;
 }
 
 .part3 {border-color: powderblue;
@@ -22,6 +23,7 @@ text-align: left;
     border-style: outset;
     margin-right: 85%;
     text-align: left;
+    font-weight: bold;
 }    
 
 .part4 {border-color: powderblue;
@@ -29,6 +31,7 @@ text-align: left;
     border-style: outset;
     margin-right: 85%;
     text-align: left;
+    font-weight: bold;
 }
 
 
@@ -37,6 +40,7 @@ text-align: left;
     border-style: outset;
     margin-right: 85%;
     text-align: left;
+    font-weight: bold;
 } 
 
 .part6 {border-color: powderblue;
@@ -44,6 +48,7 @@ text-align: left;
     border-style: outset;
     margin-right: 85%;
     text-align: left;
+    font-weight: bold;
 }
 
 #ima2 {width: 25%;
