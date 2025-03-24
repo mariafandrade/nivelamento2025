@@ -6,7 +6,7 @@ body {background-image: url(imagem6.jpg);
 { text-align: center ;
 }
 
-.part1 { text-align: center;
+.part1 { text-align: left;
         color: blueviolet;
 }
 
@@ -14,31 +14,36 @@ body {background-image: url(imagem6.jpg);
 border-width: 3px;
 border-style: outset;
 margin-right: 85%;
+text-align: left;
 }
 
 .part3 {border-color: powderblue;
     border-width: 3px;
     border-style: outset;
     margin-right: 85%;
+    text-align: left;
 }    
 
 .part4 {border-color: powderblue;
     border-width: 3px;
     border-style: outset;
     margin-right: 85%;
+    text-align: left;
 }
-
+x1.25
 
 .part5 {border-color: powderblue;
     border-width: 3px;
     border-style: outset;
     margin-right: 85%;
+    text-align: left;
 } 
 
 .part6 {border-color: powderblue;
     border-width: 3px;
     border-style: outset;
     margin-right: 85%;
+    text-align: left;
 }
 
 #ima2 {width: 25%;
